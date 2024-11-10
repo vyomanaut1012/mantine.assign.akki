@@ -1,6 +1,3 @@
-<<<<<<< HEAD
- 
-=======
 # Indian Agriculture Data Analysis Table
 
 This project is a simple React application created using Vite, TypeScript, and the Mantine UI library. It visualizes and analyzes agricultural data from India, offering an easy-to-read table format that highlights crop yield, area under cultivation, and other significant agricultural metrics. This project is ideal for anyone interested in data visualization, TypeScript, and using Mantine for building UI components.
@@ -18,6 +15,27 @@ This project is a simple React application created using Vite, TypeScript, and t
 - **Vite**: A fast build tool optimized for modern JavaScript frameworks.
 - **TypeScript**: Adds type safety to the application.
 - **Mantine**: Provides a rich set of components and hooks for building responsive and customizable UIs.
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/indian-agriculture-data-analysis.git
+2. **Install Dependencies**:
+   ```bash
+   cd indian-agriculture-data-analysis
+   npm install
+3. **Run the Project:**:
+   ```bash
+   npm run dev
+
+## Live Demo
+
+[View Live Demo](https://akki-assign-agri.netlify.app/)
+
+## Screenshot
+![App Screenshot](./src/assets/ReadmeFile/table01.png)
+![App Screenshot](./src/assets/ReadmeFile/table02.png)
 
 ## Project Structure
 
@@ -37,4 +55,3 @@ project-root/
 │   └── index.css                       # Global styles
 ├── README.md                           # Project README file
 └── tsconfig.json                       # TypeScript configuration
->>>>>>> 664e35eaa2e14c239af3a61faf47bc5495b02a43
