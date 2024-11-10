@@ -6,6 +6,7 @@ function App() {
 
   return (
     <>
+      <h1 style={{ textAlign:'center', marginTop:'1rem'}}>Indian Agriculture Data Analysis between 1950-2020</h1>
       <CropTable />
       <TimePeriodTable />
     </>
